@@ -33,14 +33,12 @@ Basic data types.
 
 ## Tools to find datasets
 
-[Google Dataset Search](https://datasetsearch.research.google.com/)
-[Kaggle](https://www.kaggle.com/)
+* [Google Dataset Search](https://datasetsearch.research.google.com/);
+* [Kaggle](https://www.kaggle.com/)
 
 ## Data treatment
 
-* [Pandas](https://pandas.pydata.org/).
-
-Pandas can read a bunch of files. 
+[Pandas](https://pandas.pydata.org/) can read a bunch of files. 
 
 Seanborn is a library for data visualization (based on `matplotlib`)
 
