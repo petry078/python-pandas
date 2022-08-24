@@ -1,5 +1,5 @@
 # python-pandas
-Study about Python Pandas with Google Colab
+Study about Python Pandas with Jupyter Notebook and Google Colab.
 
 ## Data types
 
