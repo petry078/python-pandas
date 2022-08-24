@@ -16,7 +16,9 @@ Basic data types.
 ## Built-in functions
 
 `len("paris")`
+
 `name.captalize()`
+
 `name.endswith(i)` it returns true or false.
 
 ## Web scrapping
